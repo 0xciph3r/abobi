@@ -1,4 +1,4 @@
-module github.com/NonsoAmadi10/abobi
+module github.com/0xciph3r/abobi
 
 go 1.19
 

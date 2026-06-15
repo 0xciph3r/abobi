@@ -4,14 +4,14 @@
 
 A command line tool that parses your environment variables written in a file into a kubernetes base64 encoded secrets.
 
-[![abobi workflow](https://github.com/NonsoAmadi10/abobi/actions/workflows/main.yml/badge.svg)](https://github.com/NonsoAmadi10/abobi/actions/workflows/main.yml)
+[![abobi workflow](https://github.com/0xciph3r/abobi/actions/workflows/main.yml/badge.svg)](https://github.com/0xciph3r/abobi/actions/workflows/main.yml)
 
 ## Getting started
 
 To use this package, simply download the binary file:
 
 ```bash
-wget https://github.com/NonsoAmadi10/abobi/releases/download/v0.1.0/abobi
+wget https://github.com/0xciph3r/abobi/releases/download/v0.1.0/abobi
 ```
 
 Make the binary executable:
@@ -74,5 +74,5 @@ data:
 ## Contributions
 
 This is tool is currently in beta mode and hopefully it gets to alpha and a final release.
-If you feel you have ideas on how we can improve this, shoot me a mail at `nonsoamadi@aol.com` and raise a PR or open an issue. I respond fast!
+If you feel you have ideas on how we can improve this, shoot me a mail at `dev@radi-labs.org` and raise a PR or open an issue. I respond fast!
 

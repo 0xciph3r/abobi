@@ -1,5 +1,5 @@
 /*
-Copyright © 2023 NAME HERE nonsoamadi@aol.com
+Copyright © 2023 NAME HERE dev@radi-labs.org
 */
 package cmd
 
